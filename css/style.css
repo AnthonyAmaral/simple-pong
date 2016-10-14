@@ -1,0 +1,16 @@
+html {
+  position: relative;
+  max-height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f1f1f;
+}
+canvas {
+  border: 5px solid white;
+}
+h1{
+	color: white;
+}
